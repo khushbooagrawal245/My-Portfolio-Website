@@ -530,12 +530,14 @@ img {
 /* .....accc to our skills 1.2.3.4.4.55.6..... */
 
 .skills__html {
-    width: 90%;
+    width: 80%;
 }
 
 .skills__css {
-    width: 50%;
+    width: 70%;
 }
+
+
 
 .skills__close .skills__list {
     height: 0;
