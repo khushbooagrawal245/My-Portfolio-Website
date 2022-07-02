@@ -537,29 +537,29 @@ img {
     width: 70%;
 }
 
-.skills_javascript{
+.skills__javascript{
     width: 30%;
 }
 
-.skills_java{
+.skills__java{
     width:75%;
 }
-.skills_python{
+.skills__python{
     width:60%;
 }
-.skills_dart{
+.skills__dart{
     width:70%;
 }
-.skills_c{
+.skills__c{
     width:50%;
 }
-.skills_canva{
+.skills__canva{
     width:90%;
 }
-.skills_intellij{
+.skills__intellij{
     width:80%;
 }
-.skills_vscode{
+.skills__vscode{
     width:70%;
 }
 
