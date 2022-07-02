@@ -534,13 +534,34 @@ img {
 }
 
 .skills__css {
-    width: 100%;
+    width: 70%;
 }
 
 .skills_javascript{
-    width: 100%;
+    width: 30%;
 }
 
+.skills_java{
+    width:75%;
+}
+.skills_python{
+    width:60%;
+}
+.skills_dart{
+    width:70%;
+}
+.skills_c{
+    width:50%;
+}
+.skills_canva{
+    width:90%;
+}
+.skills_intellij{
+    width:80%;
+}
+.skills_vscode{
+    width:70%;
+}
 
 .skills__close .skills__list {
     height: 0;
