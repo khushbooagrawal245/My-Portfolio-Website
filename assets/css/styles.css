@@ -529,6 +529,7 @@ img {
 
 /* .....accc to our skills 1.2.3.4.4.55.6..... */
 
+/*
 .skills__html {
     width: 80%;
 }
@@ -562,7 +563,7 @@ img {
 .skills__vscode{
     width:70%;
 }
-
+ */
 .skills__close .skills__list {
     height: 0;
     overflow: hidden;
